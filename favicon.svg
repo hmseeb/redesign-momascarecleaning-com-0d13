@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Moma's Care Cleaning">
+  <rect width="64" height="64" rx="14" fill="#0b2f2a"/>
+  <path d="M32 10c-8.2 10-15.4 17.2-15.4 26.4a15.4 15.4 0 0 0 30.8 0C47.4 27.2 40.2 20 32 10Z" fill="#e6f2ee"/>
+  <circle cx="25.2" cy="38" r="3.8" fill="#f4a259"/>
+</svg>

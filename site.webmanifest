@@ -1,0 +1,17 @@
+{
+  "name": "Moma's Care Cleaning",
+  "short_name": "Moma's Care",
+  "description": "Home and business cleaning in Philadelphia, Pennsylvania. 25 years of experience. Free estimates.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0b2f2a",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
